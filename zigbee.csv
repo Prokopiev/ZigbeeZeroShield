@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R4,R3";"R_0603_1608Metric";2;"100";;;
+2;"TX1,RX1";"LED_0603_1608Metric";2;"LED";;;
+3;"R2";"R_0603_1608Metric";1;"2.7k";;;
+4;"R1";"R_0603_1608Metric";1;"10k";;;
+5;"MC1";"E18-MS1PA1-PCB";1;"E18-MS1PA1-PCB";;;
+6;"J4";"PinHeader_2x05_P2.54mm_Vertical";1;"Debug Connector";;;
+7;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"PS Header";;;
+8;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"Raspberry_Pi_2_3";;;
+9;"C2";"C_0603_1608Metric";1;"1nF";;;
+10;"C1";"CP_EIA-3528-21_Kemet-B";1;"10uF";;;
